@@ -11,6 +11,7 @@ namespace Git
 
         public static void opcoes() {
 
+            Console.WriteLine("Oi");
             Console.WriteLine("Favor escolher uma das opções baixo: ");
             Console.WriteLine("Soma: 1 ");
             Console.WriteLine("Diminuição: 2 ");
